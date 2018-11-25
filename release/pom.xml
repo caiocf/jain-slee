@@ -33,8 +33,8 @@
 		<xcap.scmVersionType>tag</xcap.scmVersionType>
 		<xmpp.scmVersion>7.1.8</xmpp.scmVersion>
 		<xmpp.scmVersionType>tag</xmpp.scmVersionType>
-		<statistics.scmVersion>7.2.0-19</statistics.scmVersion>
-		<statistics.scmVersionType>tag</statistics.scmVersionType>
+		<statistics.scmVersion>7.2.0-82-build</statistics.scmVersion>
+		<statistics.scmVersionType>branch</statistics.scmVersionType>
 
 		<diameter.scmVersion>7.1.18</diameter.scmVersion>
 		<diameter.scmVersionType>tag</diameter.scmVersionType>
@@ -250,7 +250,7 @@
 										${checkout.basedir}/statistics
 									</checkoutDirectory>
 									<connectionUrl>
-										scm:git:https://github.com/RestComm/jain-slee.statistics.git
+										scm:git:https://github.com/caiocf/jain-slee.statistics.git
 									</connectionUrl>
 								</configuration>
 							</execution>
